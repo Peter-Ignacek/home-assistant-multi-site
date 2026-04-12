@@ -11,7 +11,7 @@ Runs in a Proxmox environment and integrates smart devices within the local netw
 
 ### Host
 - Proxmox VE (Mini PC)
-- Home Assistant running as VM or LXC
+- Home Assistant running on VM 
 
 ### Access
 - Local: http://homeassistant.local:8123
