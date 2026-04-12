@@ -50,9 +50,63 @@ Runs in a Proxmox environment and integrates smart devices within the local netw
 
 ---
 
-## Connectivity Architecture
+## Devices (Overview)
 
-Devices → Home Assistant → NAS / Services  
-Zigbee / Matter → Coordinator → Home Assistant  
-Remote user → VPN or HTTPS → Home Assistant
-🔥 Co poprawiłem
+### Lighting
+- Philips Hue lighting system
+- Aqara Ceiling Light T1M
+- Colorful Ceiling Light 36W
+- Indoor room lighting (Wohnzimmer, Küche, Flur, Badezimmer)
+- TV / cinema accent lighting
+- Outdoor lighting (Garten, Eingangstür, Altana)
+
+### Smart Switches & Plugs
+- Aqara Light Switch H2 EU
+- Shelly relays and switches
+- Smart outlets for household devices
+- Power-controlled plugs for appliances and lighting
+
+### Covers / Garage / Openings
+- Smart roller shutters (multiple rooms and zones)
+- Smart garage door opener
+- Window and door automation
+
+### Sensors & Safety
+- Motion sensors
+- Illuminance sensors
+- PIR / wave radar sensors
+- Smoke detectors (multiple floors)
+- Door / window state monitoring
+
+### Heating / Climate
+- Aqara Retrofit Valves T1
+- Smart radiator valves
+- Boiler heating element control
+
+### Tablet / Dashboard
+- Lenovo tablet dashboard
+- Screen control
+- Motion detection
+- Kiosk mode control
+
+### Zigbee / Thread / IoT Infrastructure
+- Zigbee2MQTT
+- SLZB-06 coordinator
+- Matter / Thread capable network components
+
+### Network & Access Infrastructure
+- UniFi network
+- Dedicated firewall / access rules for services
+- IoT Wi-Fi networks
+- Reverse proxy / remote access components
+
+### Media & Entertainment
+- Hue Sync Box
+- TV lighting integration
+- Cinema lighting zones
+
+### Utility / Appliance Control
+- Washing machine outlet
+- Dryer outlet
+- Fridge control
+- Additional smart power outlets
