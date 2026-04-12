@@ -1,15 +1,16 @@
-# Home Assistant – Poland 🇵🇱
+# Home Assistant – Mettmann 🇩🇪
 
 ## Overview
-Main smart home system running on UGREEN NAS.
+Lightweight Home Assistant instance focused on UI and automation.
 
 ## Hardware
-- UGREEN NAS
-- UPS
-- Sensors (basement)
+- Tablet (Lenovo Tab M11)
+- Mini PC (optional)
 
 ## Role
-- Full home automation system
+- Dashboard system
+- UI control
 
-## Network
-- Local IP: 192.168.1.100
+## Features
+- Motion wake screen
+- Auto screen off
