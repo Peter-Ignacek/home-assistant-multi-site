@@ -40,5 +40,54 @@ Zigbee / Matter → Coordinator / Thread Border Router → Home Assistant
 Remote user → VPN or HTTPS proxy → Home Assistant
 
 ---
+## Devices (Overview)
 
+### Lighting (Philips Hue & Smart Lighting)
+- Hue Go
+- Hue Play
+- Hue Play Gradient Lightstrip
+- Hue Lightstrip Plus
+- Hue Surimu panels
+- Hue Infuse ceiling lights
+- Hue Tento panel
+- Ambient & room lighting (Wohnzimmer, Schlafzimmer, Küche, Flur, Badezimmer)
+
+### Smart Lighting & Effects
+- TV LED lighting
+- Play Gradient Tube
+- Computerbereich & gaming lighting
+- RGB ambient lighting (desk, komoda)
+
+### Blinds / Covers
+- Aqara Roller Shade Driver (multiple zones)
+
+### Sensors
+- Motion sensors (Hue / Zigbee)
+- Illuminance sensors
+- Presence detection
+
+### Tablet / Dashboard
+- Lenovo Tab M11 (Fully Kiosk)
+- Motion detection
+- Screen control (on/off)
+- Kiosk mode
+
+### Smart Devices
+- Roomba
+- Boiler
+- Smart plugs & switches (Shelly / Zigbee / Tuya)
+
+### Climate
+- Smart radiator valves (living room, bedroom, kitchen)
+
+### Media & Audio
+- Samsung TV
+- OLED TV
+- Denon AVR
+- Alexa devices (Echo, Echo Pop, Echo Dot)
+
+### Network & Infrastructure
+- Proxmox host
+- NAS / services (Plex, Paperless, Duplicati, etc.)
+- Zigbee coordinator (Zigbee2MQTT)
 
