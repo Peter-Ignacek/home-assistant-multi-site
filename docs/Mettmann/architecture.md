@@ -82,12 +82,8 @@ Remote user → VPN or HTTPS proxy → Home Assistant
 
 ### Media & Audio
 - Samsung TV
-- OLED TV
 - Denon AVR
 - Alexa devices (Echo, Echo Pop, Echo Dot)
 
-### Network & Infrastructure
-- Proxmox host
-- NAS / services (Plex, Paperless, Duplicati, etc.)
-- Zigbee coordinator (Zigbee2MQTT)
+
 
