@@ -8,6 +8,7 @@ This repository documents my Home Assistant homelab with a focus on:
 - automations
 - dashboard design
 - helper/template sensor logic
+- Codex-assisted MCP safety workflow
 - practical smart home use cases
 
 ## Locations
@@ -22,6 +23,7 @@ This repository documents my Home Assistant homelab with a focus on:
 - helper-based and template-based sensors
 - motion and tablet automations
 - device-level energy visibility
+- safety-first Codex + MCP workflow for controlled documentation and configuration support
 
 ## Repository Structure
 - `docs/` architecture and setup notes
@@ -33,6 +35,14 @@ This repository documents my Home Assistant homelab with a focus on:
 - comparison of current vs previous day/week/month
 - multi-site organization
 - practical automations for daily living
+- documented dry-run and approval workflow for AI-assisted Home Assistant changes
+
+## Codex + MCP Safety Workflow
+This setup also documents a controlled Codex-assisted workflow for Home Assistant MCP work.
+
+The goal is not to let an AI agent freely control the smart home, but to use it as a safety-first assistant for documentation, dry runs, payload review, and read-only verification.
+
+See [docs/codex-mcp-safety-workflow.md](docs/codex-mcp-safety-workflow.md).
 
 ## Notes
 Sensitive data such as IP addresses, tokens, secrets, Wi-Fi names, and private identifiers have been removed.
