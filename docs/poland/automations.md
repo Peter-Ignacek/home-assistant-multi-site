@@ -13,7 +13,7 @@ This Home Assistant instance is focused on practical home automation, outdoor li
 - Tv Licht An
 - Tv Licht Aus
 - Tv Licht AN – tylko przy zachodzie
-- Swiatlo Pokoj Piotr Lampa (Gora)
+- Swiatlo Pokoj <HOMELAB_JEDI> Lampa (Gora)
 - Hue Automation (sunset ON, 01:30 OFF + retry)
 - Hue Automacja Lampki kuchnia
 
