@@ -1,4 +1,4 @@
- Architecture – Poland 🇵🇱
+﻿ Architecture – Poland 🇵🇱
 
 ## Overview
 Primary Home Assistant instance acting as the central smart home system.
@@ -21,7 +21,7 @@ Runs in a Proxmox environment and integrates smart devices within the local netw
 
 ### Access
 - Local: http://homeassistant.local:8123
-- Remote (via reverse proxy): https://ha.pl.ignacek.com
+- Remote (via reverse proxy): https://ha-pl.example.com
 - VPN: WireGuard
 
 ---

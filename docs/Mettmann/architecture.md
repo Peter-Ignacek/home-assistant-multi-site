@@ -1,4 +1,4 @@
-# Architecture – Mettmann 🇩🇪
+﻿# Architecture – Mettmann 🇩🇪
 
 ## Overview
 Lightweight Home Assistant setup focused on dashboards, UI automation, and local device control.
@@ -15,7 +15,7 @@ Runs in a Proxmox environment and integrates smart devices within the local netw
 
 ### Access
 - Local: http://homeassistant.local:8123
-- Remote (via reverse proxy): https://ha.de.ignacek.com
+- Remote (via reverse proxy): https://ha-de.example.com
 - VPN: WireGuard
 
 ---
